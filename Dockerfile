@@ -1,7 +1,7 @@
 FROM python:3.7
 
 ENV API_KEY "cerberusgamingiscool=="
-ENV API_URL "http://127.0.0.1:8080."
+ENV API_URL "http://127.0.0.1:8080/"
 ENV MESSAGE_DELAY 300
 ENV MESSAGE "Some Idiot "
 
